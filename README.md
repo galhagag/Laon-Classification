@@ -15,3 +15,4 @@ Feature engineering
 
 Assessing method:
 - Custom scorer for assessing model accuracy
+- ROC curve & AUC
