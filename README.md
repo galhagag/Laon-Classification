@@ -2,16 +2,16 @@
 
 
 Using Machine Learning model for predicting probability of loan defaults:
-- Regression for filling NaN values
-- Classification for class prediction
+  - Regression for filling NaN values
+  - Classification for class prediction
 
-Clean an prepare your data 
+- Clean an prepare your data 
 
-EDA
+- EDA
 
-Variables relationship
+- Variables relationship
 
-Feature engineering
+- Feature engineering
 
-Assessing method:
-- Custom scorer for assessing model accuracy
+- Assessing method:
+  - Custom scorer for assessing model accuracy
